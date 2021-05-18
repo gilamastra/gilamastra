@@ -1,6 +1,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/giovanilamastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="giovanilamastra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giovanilamastra" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621374022~hmac=a686c11e2acab8febccfa4cd54a3e6e9" alt="giovanilamastra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
